@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&fontSize=60&animation=fadeIn&text=Bella;&fontAlignY=35)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bella-ent)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
-
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -84,3 +81,7 @@ Here are some ideas to get you started:
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true&fontSize=90)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bella-ent&show_icons=true&theme=tokyonight)
+
