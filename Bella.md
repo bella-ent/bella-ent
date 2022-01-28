@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&fontSize=60&animation=fadeIn&text=Bella;&fontAlignY=35) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&fontSize=60&animation=fadeIn&text=Bella;&fontAlignY=35)
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
