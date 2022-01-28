@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&fontSize=60&animation=fadeIn&text=Bella&desc=Full-stack%20Web%20Developer&fontAlignY=35&fontColor=333&animation=fadeIn&rotate=13&fontAlign=60&fontAlignY=40&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:FBF8CC,100:53E4CE&height=100&section=header&fontSize=50&animation=fadeIn&text=Bella&desc=Full-stack%20Web%20Developer&fontColor=333&animation=fadeIn&fontAlign=50&descAlign=50&fontAlignY=45&descAlignY=75)
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FBF8CC,100:53E4CE&height=100&section=footer&reversal=true&fontSize=90)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bella-ent&show_icons=true&theme=tokyonight)
