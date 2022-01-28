@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **bella-ent/bella-ent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=capsule%20render&fontSize=90&textBg=true&animation=fadeIn&desc=Bella)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer&reversal=true&text=capsule%20render&fontSize=90)
